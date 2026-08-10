@@ -1,4 +1,4 @@
-Sleep-Disorder-Analysis
+#  Sleep Disorder Analysis 
 
 ## 📌 Project Overview
 This interactive **Power BI Dashboard** analyzes how daily lifestyle habits, workplace environments, and health indicators impact sleep quality and trigger sleep disorders such as **Insomnia** and **Sleep Apnea**. 
